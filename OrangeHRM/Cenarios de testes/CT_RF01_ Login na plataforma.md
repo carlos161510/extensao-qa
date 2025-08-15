@@ -72,5 +72,6 @@ Teste Aprovado
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
+
 Teste Aprovado
 [Video](https://jam.dev/c/3af5b054-abe1-4030-96bd-b767ff64efb3)

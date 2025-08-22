@@ -19,7 +19,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente a interface do Dashboard.     |
-[Video](https://jam.dev/c/5d4a3057-028e-4156-9dfa-e34ca7fdd7cf)
+Teste Aprovado[Video](https://jam.dev/c/5d4a3057-028e-4156-9dfa-e34ca7fdd7cf)
 ---
 
 ### Caso de Teste 02: Verificação da exibição dos widgets do Dashboard.

@@ -42,7 +42,7 @@ Teste Aprovado[Video](https://jam.dev/c/5d4a3057-028e-4156-9dfa-e34ca7fdd7cf)
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Todos os widgets principais devem ser visíveis e funcionais.     |
-
+Teste Aprovado[Video](https://jam.dev/c/a05c65e5-5b0c-4a66-825a-1a4ff12655d3)
 ---
 
 ### Caso de Teste 03: Acesso ao Dashboard com sessão expirada.

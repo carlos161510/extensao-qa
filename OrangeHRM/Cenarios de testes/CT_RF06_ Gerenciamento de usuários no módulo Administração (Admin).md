@@ -21,7 +21,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O usuário cadastrado deve aparecer na lista de usuários ativos. |
-
+Teste Aprovado[Video](https://jam.dev/c/a63dffa1-0622-4eaa-9a8a-356f11b8f3f6?startFrom=55.06)
 ---
 
 ### Caso de Teste 02: Tentativa de adicionar usuário com nome de usuário já existente.
@@ -45,7 +45,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o cadastro e exibir mensagem de duplicidade. |
-
+Teste Aprovado[Video](https://jam.dev/c/93e2a874-42fb-4e5a-8efd-19d665051cee)
 ---
 
 ### Caso de Teste 03: Filtrar usuários por status "Enabled".
@@ -68,3 +68,4 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A lista deve conter apenas usuários com status "Enabled".       |
+Teste Aprovado[Video](https://jam.dev/c/9d9e3bae-374f-4e7c-9ffb-e60e3bd57c56)

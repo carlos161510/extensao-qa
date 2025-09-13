@@ -65,3 +65,4 @@ Teste Aprovado[Video](https://jam.dev/c/a05c65e5-5b0c-4a66-825a-1a4ff12655d3)
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
+Teste Aprovado [Video](https://jam.dev/c/26c7c513-15ab-4c8b-9ea2-bd8df26f95fa)

@@ -20,7 +20,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de manutenção e bloquear o acesso às funcionalidades. |
-
+Teste Aprovado[Video](https://jam.dev/c/fb8da644-9426-420d-9655-eeb6cefe6ec6)
 ---
 
 ### Caso de Teste 02: Acessar o sistema após término da manutenção.
@@ -43,7 +43,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O usuário deve ser capaz de acessar o sistema normalmente.      |
-
+Teste Aprovado[Video](https://jam.dev/c/fb8da644-9426-420d-9655-eeb6cefe6ec6)
 ---
 
 ### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada.
@@ -66,3 +66,4 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de falha e manutenção, informando que o sistema está indisponível. |
+Teste Aprovado[Video](https://jam.dev/c/fb8da644-9426-420d-9655-eeb6cefe6ec6)

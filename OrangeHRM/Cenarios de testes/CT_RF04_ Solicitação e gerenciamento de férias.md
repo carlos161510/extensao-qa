@@ -22,7 +22,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A solicitação deve aparecer listada em \"My Leave\".            |
-
+Teste Aprovado[Video](https://jam.dev/c/40ae3bf5-8434-4f27-adf5-97c805f68b10)
 ---
 
 ### Caso de Teste 02: Tentativa de solicitar férias sem selecionar tipo de licença.
@@ -47,7 +47,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
-
+Teste Aprovado[Video](https://jam.dev/c/ad2b6c07-203e-4c17-a6f9-f9f807c10023)
 ---
 
 ### Caso de Teste 03: Visualizar status das solicitações de férias.
@@ -69,3 +69,4 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+Teste Aprovado[Video](https://jam.dev/c/e5276784-9df3-4e1d-b50c-6115a3f0c9c7)
